@@ -1,5 +1,5 @@
-class HelloWorld
-  def self.from(time)
-    'Hello, World!'
+class Gigasecond
+  def self.from(date)
+    return date + 10**9
   end
 end
